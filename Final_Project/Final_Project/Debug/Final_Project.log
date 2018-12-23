@@ -1,0 +1,7 @@
+﻿  Test.cpp
+f:\computer science\c++ advanced\final_project\final_project\test.cpp(61): warning C4101: 'valid': unreferenced local variable
+f:\computer science\c++ advanced\final_project\final_project\test.cpp(162): warning C4101: 'q': unreferenced local variable
+f:\computer science\c++ advanced\final_project\final_project\test.cpp(190): warning C4101: 'w': unreferenced local variable
+f:\computer science\c++ advanced\final_project\final_project\test.cpp(249): warning C4101: 'number': unreferenced local variable
+f:\computer science\c++ advanced\final_project\final_project\test.cpp(268): warning C4101: 'menu': unreferenced local variable
+  Final_Project.vcxproj -> F:\Computer Science\C++ Advanced\Final_Project\Debug\Final_Project.exe
