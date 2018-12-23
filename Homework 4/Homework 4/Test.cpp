@@ -1,6 +1,5 @@
 //LEO BABAKHANIAN, GEORGE KHDRYAN
 //CS/IS 137- FALL CLASS
-//MIDTERM PROJECT
 
 #include <iostream>
 #include "TwoDayPackage.h"
