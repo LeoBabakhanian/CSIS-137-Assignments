@@ -1,0 +1,28 @@
+//LEO BABAKHANIAN, GEORGE KHDRYAN
+//CS/IS 137- FALL CLASS
+//HOMEWORK 5
+
+#ifndef TWODAYPACKAGE_H
+#define TWODAYPACKAGE_H
+
+#include <string> 
+using namespace std;
+
+#include "Package.h"
+
+class TwoDayPackage:public Package
+{
+private:
+	double twoDayFee;
+public:
+	TwoDayPackage(const string&, const string&, const string&, const string&, const string&,
+		const string&, const string&, const string&, const string&, const string&, double = 0.0, double = 0.0, double = 0.0);
+
+	void setTwoDayFee(double);
+	double getTwoDayFee()const;
+
+	virtual double calculateCost()const;
+	virtual void print()const;
+};
+
+#endif
